@@ -1,5 +1,5 @@
 # medialon_script-scheduler
-A weekly scheduler with even days and until ten different events by day with minute precision
+A weekly scheduler with seven days and until ten different events by day with minute precision
 
 Seven days and until ten different events by day with minute precision. Easy to upgrade to more days and/or events. Each event launch its own selected task.
 To setup there is only one function with parameters. All data is saved as a json string in a persistent variable to be selected in the script configuration. Also is configurable the timing interval.
