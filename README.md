@@ -15,4 +15,4 @@ In this test file all events start the same task that insert the event parameter
 ##### <br/> 
 ##### Medialon Manager Panel screenshot:
 
-![Image of panel](screenshots/panel_scheduler.png)
+![Image of panel](screenshots/panel_scheduler_5.png)
