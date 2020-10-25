@@ -11,3 +11,8 @@ Also is configurable the timing interval.
 
 I've upload also the manager file, v6.7.2, I used to test it as example.
 In this test file all events start the same task that insert the event parameters in a screen list. 
+
+##### <br/>
+##### Medialon Manager Panel screenshot:
+
+![Image of panel](screenshots/panel_scheduler.png)
